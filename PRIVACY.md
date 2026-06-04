@@ -1,6 +1,6 @@
 # Política de Privacidad - JuriCalc CR
 
-**Última actualización:** 15 de mayo de 2026
+**Última actualización:** 04 de junio de 2026
 
 En **JuriCalc CR**, nos tomamos muy en serio la privacidad de los profesionales del derecho en Costa Rica. Esta política describe cómo manejamos la información dentro de nuestra aplicación móvil.
 
