@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-06-08",
-  "current_rate": 8.52,
+  "last_updated": "2026-07-07",
+  "current_rate": 8.41,
   "interest_table": [
     { "start": "2019-04-01", "end": "2019-09-30", "rate": 13.16 },
     { "start": "2019-10-01", "end": "2019-12-31", "rate": 12.11 },
